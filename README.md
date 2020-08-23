@@ -26,10 +26,9 @@ node app.js
 
 ### Images
 
-!["Landing Page"](./screenshots/LandingPage.png)
-!["Campgrounds Page"](./screenshots/CampgroundsPage.png)
-!["Show Page"](./screenshots/ShowPage.png)
-!["Comment Section"](./screenshots/Comments.png)
+!["Landing Page"](./screenshots/LandingPage.png "Landing Page")
+!["Campgrounds Page"](./screenshots/CampgroundsPage.png "Campgrounds Page")
+!["Comment Section"](./screenshots/Comments.png "Comments Section")
 
 ##### Further improvements to be accomplished
 
