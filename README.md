@@ -36,3 +36,4 @@ node app.js
 * Add Fuzzy Search.
 * User Profile.
 * Password Reset.
+* Migrate to Bootstrap 4
